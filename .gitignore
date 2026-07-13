@@ -1,0 +1,11 @@
+data/
+metrics/
+*.zip
+*.pdf
+*.docx
+*.md
+.DS_Store
+artifacts/
+checkpoints/
+__pycache__/
+.ipynb_checkpoints/
